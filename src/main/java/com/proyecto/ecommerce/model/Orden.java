@@ -9,6 +9,7 @@ public class Orden {
 	private Date fechaRecibida;
 	
 	private double total;
+	private double total1;
 	
 	public Orden() {
 	
